@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tote Bags
+title: Interesting Facts
 category: facts
 permalink: /facts
 ---
